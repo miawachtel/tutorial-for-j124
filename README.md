@@ -14,4 +14,4 @@ Someone once told me the following quote:
 This will have a ~~strikethrough~~
 
 This is a chart I made in an earlier lecture:
-![This is a data wrapper chart](data-wrapper.png)
+![This is a data wrapper chart](kMzUt--insert-title-here-.png)
